@@ -15,7 +15,7 @@ const routes = {
   "ghcr.zhihuizhaocai.com": "https://ghcr.io",
   "cloudsmith.zhihuizhaocai.com": "https://docker.cloudsmith.io",
   "ecr.zhihuizhaocai.com": "https://public.ecr.aws",
-
+  "harbor2.zhihuizhaocai.com": "https://cloudbase-85560688-docker.pkg.coding.net",
   // staging
   "docker-staging.zhihuizhaocai.com": dockerHub,
 };
